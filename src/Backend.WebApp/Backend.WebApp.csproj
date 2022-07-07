@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.6" />
     <PackageReference Include="ExtCore.Data" Version="4.0.0" />
     <PackageReference Include="ExtCore.Mvc" Version="4.0.0" />
     <PackageReference Include="ExtCore.WebApplication" Version="4.0.0" />
